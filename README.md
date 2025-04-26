@@ -67,7 +67,7 @@ Here are a few of the websites I’ve built and deployed. Click to explore them 
     <img src="https://api.urlbox.com/v1/IXghkIvkc7FWSare/png?url=https%3A%2F%2Fpentagonproducts.com&thumb_width=600" alt="Pentagon Store" width="45%" style="margin: 10px;" />
   </a>
   <a href="https://enfoundation.org" target="_blank">
-    <img src="https://api.urlbox.com/v1/IXghkIvkc7FWSare/png?url=https%3A%2F%2Festhernyasubafoundation.org&thumb_width=600" alt="Esther Nyasuba Foundation" width="45%" style="margin: 10px;" />
+    <img src="https://api.urlbox.com/v1/IXghkIvkc7FWSare/png?url=[https%3A%2F%2Festhernyasubafoundation.org](https://esthernyasubafoundation.org/)&thumb_width=600" alt="Esther Nyasuba Foundation" width="45%" style="margin: 10px;" />
   </a>
 </p>
 
